@@ -1,2 +1,2 @@
 # study101
-this is used for self study
+this is used for self study and demo
